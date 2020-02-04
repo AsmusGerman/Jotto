@@ -1,12 +1,8 @@
 {
-  "name": "jotto",
+  "name": "jotto-app",
   "version": "1.0.0",
-  "description": "react + jest + enzyme",
-  "keywords": [
-    "react",
-    "jest",
-    "enzyme"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
